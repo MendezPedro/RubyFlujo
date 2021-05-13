@@ -8,5 +8,5 @@ if utilidad > 0
     utilidad = utilidad * 0.65
 end #siempre se cierra el if
 puts utilidad
-#ubuntu
-#skgddjg
+
+puts "hola mundo"
