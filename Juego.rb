@@ -37,5 +37,6 @@ tijera = 2
             puts "Computador juega tijeras\nEmpataste. "
         end
     end
-
+else    
+    puts "Argumento invalido: Debe ser piedra, papel o tijera"
 end
